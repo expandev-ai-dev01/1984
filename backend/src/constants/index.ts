@@ -18,3 +18,8 @@ export {
   type InitExampleLimitsType,
   type InitExamplePriority,
 } from './initExample';
+
+/**
+ * Product constants
+ */
+export * from './product';
